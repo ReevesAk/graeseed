@@ -1,0 +1,1 @@
+Herein lies a django project(e-commerce store salken), I am building off the knowlegde from going through Django rest framework as well as an abstract folder(concepts) that houses the python concepts, I wanted to get familiar with.|
